@@ -2404,7 +2404,7 @@
         "id": "f8015a540b94a073",
         "type": "ui_etable",
         "z": "b7303474bcc6a601",
-        "payload": "[{\"title\":\"Outside Air Temperature\",\"field\":\"oat\",\"align\":\"center\",\"sorter\":\"number\",\"width\":300},{\"title\":\"Heat Pump Out Temperature Voltage\",\"field\":\"voltage\",\"align\":\"center\",\"sorter\":\"number\",\"width\":300}]",
+        "payload": "[{\"title\":\"Outside Air Temperature\",\"field\":\"oat\",\"align\":\"center\",\"sorter\":\"number\",\"width\":300},{\"title\":\"Heat Pump Out Temperature Voltage\",\"field\":\"voltage\",\"align\":\"center\",\"sorter\":\"number\",\"width\":300,\"editor\":true}]",
         "payloadType": "json",
         "options": "{\"movableColumns\":true,\"resizableColumns\":true,\"selectable\":5,\"responsiveLayout\":\"collapse\",\"autoResize\":true,\"layout\":\"fitColumns\",\"pagination\":\"local\",\"height\":\"800px\",\"groupBy\":\"system\",\"groupStartOpen\":true}",
         "group": "d247ca56d6c7032c",
