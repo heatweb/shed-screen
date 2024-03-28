@@ -2443,7 +2443,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "[{\"oat\":\"-5\",\"voltage\":\"9\"},{\"oat\":\"0\",\"voltage\":\"8\"},{\"oat\":\"5\",\"voltage\":\"7.5\"},{\"oat\":\"10\",\"voltage\":\"6.5\"},{\"oat\":\"15\",\"voltage\":\"6\"},{\"oat\":\"20\",\"voltage\":\"6\"},{\"oat\":\"25\",\"voltage\":\"6\"}]",
+        "payload": "[{\"oat\":\"-20\",\"voltage\":\"9\"},{\"oat\":\"-5\",\"voltage\":\"9\"},{\"oat\":\"0\",\"voltage\":\"8\"},{\"oat\":\"5\",\"voltage\":\"7.5\"},{\"oat\":\"10\",\"voltage\":\"6.5\"},{\"oat\":\"15\",\"voltage\":\"6\"},{\"oat\":\"20\",\"voltage\":\"6\"},{\"oat\":\"25\",\"voltage\":\"6\"},{\"oat\":\"40\",\"voltage\":\"6\"}]",
         "payloadType": "json",
         "x": 590,
         "y": 520,
